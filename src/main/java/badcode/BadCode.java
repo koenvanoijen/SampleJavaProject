@@ -16,6 +16,6 @@ public class BadCode {
         System.out.println("Sum: " + sum);
         System.out.println("Average: " + average);
 
-        return 1;
+        return 0;
     }
 }
