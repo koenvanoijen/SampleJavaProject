@@ -7,7 +7,7 @@ public class BadCode {
         int sum;
         int average = 0;
 
-        for (int i = 1; i < x.length; i++) {
+        for (int i = 0; i < x.length; i++) {
             average += x[i];
         }
 
