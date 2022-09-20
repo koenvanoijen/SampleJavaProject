@@ -18,7 +18,9 @@ class BadCodeTest {
         int return_value = 0;
 
         BadCode bc = new BadCode();
+
         return_value = bc.PRINTsumandAVERAGE(array);
+
         assertEquals(0, return_value);
     }
 }
